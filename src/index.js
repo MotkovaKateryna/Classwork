@@ -1,5 +1,5 @@
 import './css/styles.css';
-import pokemonCardTpl from './templates/pokemon-card.hbs';
+// import pokemonCardTpl from './templates/pokemon-card.hbs';
 
 
 // const DEBOUNCE_DELAY = 300;
